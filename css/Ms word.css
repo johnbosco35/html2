@@ -1,0 +1,95 @@
+.container{
+    width: 100%;
+    height: 50px;
+    /* background-color: burlywood; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+*{
+    margin: 0;
+}
+.warpper{
+    width: 82%;
+    height: 50px;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.one{
+    width: 38%;
+    height: 40px;
+    /* background-color: chartreuse; */
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.two{
+    width: 35%;
+    height: 40px;
+    /* background-color:navy; */
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.image{
+    height: 18px;
+}
+.drop{
+    height: 18px;
+}
+.search{
+    display: flex;
+    justify-content: center;
+}
+.ms{
+    display: flex;
+    justify-content: center;
+}
+.cart{
+    display: flex;
+    justify-content: center;
+}
+.sign{
+    display: flex;
+    justify-content: center;
+}
+.bb{
+    width: 82%;
+    height: 390px;
+    background-color:rgb(55, 182, 224);
+    margin-left: 124px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bo{
+    width: 470px;
+    height: 350px;
+    /* background-color: navy; */
+    display: flex;
+    justify-content: center;
+
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    margin-left: 45px;
+    margin-top: 15px;
+}
+.di{
+    display: flex;
+    margin: 9px;
+}
+.button{
+    background-color: blue;
+    margin-right: 15px;
+    color: white;
+}
+.WOXP{
+    height: 280px;
+}
+.class{
+    display: flex;
+}
